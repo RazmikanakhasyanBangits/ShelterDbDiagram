@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShelterDbDiagram", "ShelterDbDiagram\ShelterDbDiagram.csproj", "{268C0F4E-C4DC-4BFD-BC1A-52D22843A7E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{1E1ECA01-667B-4924-A01B-6AE217FF0C4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{268C0F4E-C4DC-4BFD-BC1A-52D22843A7E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{268C0F4E-C4DC-4BFD-BC1A-52D22843A7E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{268C0F4E-C4DC-4BFD-BC1A-52D22843A7E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{268C0F4E-C4DC-4BFD-BC1A-52D22843A7E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E1ECA01-667B-4924-A01B-6AE217FF0C4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E1ECA01-667B-4924-A01B-6AE217FF0C4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E1ECA01-667B-4924-A01B-6AE217FF0C4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E1ECA01-667B-4924-A01B-6AE217FF0C4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D52659CD-0CEB-432B-B02C-8F3A1DCBCB5F}
+	EndGlobalSection
+EndGlobal
